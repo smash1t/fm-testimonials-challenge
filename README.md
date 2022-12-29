@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: ![github repo](https://github.com/smash1t/fm-testimonials-challenge)
-- Live Site URL: ![https://smash1t.github.io/fm-testimonials-challenge](https://smash1t.github.io/fm-testimonials-challenge)
+- Live Site URL: [https://smash1t.github.io/fm-testimonials-challenge](https://smash1t.github.io/fm-testimonials-challenge/)
 
 ## My process
 
