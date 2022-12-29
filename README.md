@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ![](https://github.com/smash1t/fm-testimonials-challenge)
-- Live Site URL: ![](https://smash1t.github.io/fm-testimonials-challenge/)
+- Solution URL: ![github repo](https://github.com/smash1t/fm-testimonials-challenge)
+- Live Site URL: ![github pages site](https://smash1t.github.io/fm-testimonials-challenge/)
 
 ## My process
 
@@ -48,5 +48,5 @@ First time learning and using CSS Grid!
 
 ## Author
 
-- Website - Susan Oksner ![](https://www.linkedin.com/in/susan-mashevich/)
-- Frontend Mentor - @som2734 ![](https://www.frontendmentor.io/profile/som2734)
+- Website - Susan Oksner ![linkedin](https://www.linkedin.com/in/susan-mashevich/)
+- Frontend Mentor - @som2734 ![FM profile](https://www.frontendmentor.io/profile/som2734)
